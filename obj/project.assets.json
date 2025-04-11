@@ -1336,19 +1336,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\Windows 10 TIMT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\XAMPP\\htdocs\\ProductApi\\ProductApi.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\ProductApi\\ProductApi.csproj",
       "projectName": "ProductApi",
-      "projectPath": "D:\\XAMPP\\htdocs\\ProductApi\\ProductApi.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\XAMPP\\htdocs\\ProductApi\\obj\\",
+      "projectPath": "C:\\xampp\\htdocs\\ProductApi\\ProductApi.csproj",
+      "packagesPath": "C:\\Users\\Windows 10 TIMT\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\ProductApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Windows 10 TIMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1375,7 +1375,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -1421,7 +1421,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.104/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
